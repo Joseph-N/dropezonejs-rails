@@ -1,28 +1,14 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple rails application that demonstrates the use of DropzoneJs  and paperclip to upload 
+images using ajax in a rails app.
 
-Things you may want to cover:
+Dependencies you will have to fullfill include
 
-* Ruby version
+* ImageMagick (For paperclip gem to work)
 
-* System dependencies
+For the complete tutorial visit http://josephndungu.com/tutorials/ajax-file-upload-with-dropezonejs-and-paperclip-rails
 
-* Configuration
+Check out the demo at http://stark-castle-1300.herokuapp.com/
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Thanks!
